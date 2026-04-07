@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<detalle_liquidacion>
+  <datos_adicionales>
+    <version>3.32.0</version>
+    <fecha_actual>7 de Abril de 2026</fecha_actual>
+  </datos_adicionales>
+  <filtro>
+    <liquidacion>Liquidación correspondiente al mes de Abril de 2026 (Mock Data)</liquidacion>
+    <nro_liqui>9999</nro_liqui>
+  </filtro>
+  <legajos>
+    <legajo>
+      <nro_legaj>99999</nro_legaj>
+      <documento>
+        <tipo>DNI</tipo>
+        <valor>12345678</valor>
+      </documento>
+      <agente>PÉREZ, Juan Carlos</agente>
+      <cuil>20-12345678-9</cuil>
+      <tipo_estad>A</tipo_estad>
+      <desc_estado_civil>Soltero</desc_estado_civil>
+      <dep_cabecera>24</dep_cabecera>
+      <fec_ingreso>01/01/2010</fec_ingreso>
+      <fec_nacim>1980-05-15</fec_nacim>
+      <tipo_sexo>M</tipo_sexo>
+      <cargos>
+        <cargo>
+          <desc_cargo>Categoria 7</desc_cargo>
+          <conceptos>
+            <concepto>
+              <nro_concepto>1</nro_concepto>
+              <desc_concepto>Sueldo Básico</desc_concepto>
+              <impp_conce>650000.00</impp_conce>
+            </concepto>
+            
+            <concepto>
+              <nro_concepto>61</nro_concepto>
+              <desc_concepto>Cuota Deportes</desc_concepto>
+              <impp_conce>5000.00</impp_conce>
+            </concepto>
+
+            <concepto>
+              <nro_concepto>86</nro_concepto>
+              <desc_concepto>Mayor Responsabilidad</desc_concepto>
+              <impp_conce>19037.52</impp_conce>
+            </concepto>
+            
+            </conceptos>
+          
+          <totales>
+            <rem_conap>669037.52</rem_conap>
+            <haberes>669037.52</haberes>
+            <descuentos>100000.00</descuentos>
+            <importe_neto>569037.52</importe_neto>
+          </totales>
+        </cargo>
+      </cargos>
+    </legajo>
+  </legajos>
+</detalle_liquidacion>
